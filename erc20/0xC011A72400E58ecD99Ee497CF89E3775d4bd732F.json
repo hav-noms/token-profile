@@ -1,0 +1,24 @@
+{
+  "symbol": "SNX",
+  "address": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F",
+  "overview":{
+        "en": "Token Description."
+  },
+  "email": "info@synthetix.io",
+  "website": "https://synthetix.io/",
+  "whitepaper": "https://www.synthetix.io/uploads/synthetix_whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-03-13",
+  "initial_price":{
+        "USD":"0.50 USD",
+  },
+  "links": {
+    "blog": "https://blog.synthetix.io/",
+    "twitter": "https://twitter.com/synthetix_io",
+    "telegram": "https://t.me/havven_news",
+    "github": "https://github.com/Synthetixio/synthetix",
+    "reddit": "https://www.reddit.com/r/synthetix_io/",
+    "slack": "https://discordapp.com/invite/AEdUHzt",
+    "medium": "https://blog.havven.io/"
+  }
+}
